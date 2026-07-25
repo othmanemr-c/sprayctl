@@ -1,5 +1,9 @@
 # sprayctl
 
+> ⚠️ **Usage strictement réservé aux tests d'intrusion autorisés par écrit.**
+> Utiliser cet outil contre un système sans autorisation explicite du
+> propriétaire est illégal dans la plupart des juridictions. Voir [LICENSE](LICENSE).
+
 Orchestrateur de password spray **lockout-aware** pour pentest interne et externe.
 
 ## Le problème que ça résout
