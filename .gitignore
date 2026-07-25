@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+build/
+dist/
+*.egg
+
+# Environnements virtuels
+venv/
+.venv/
+env/
+
+# Données de campagne — NE JAMAIS committer (contient des usernames et
+# métadonnées de tentatives réelles de mission client)
+*.db
+*.db-journal
+*.db-wal
+*.db-shm
+campaign*.db
+
+# Mots de passe / secrets — NE JAMAIS committer
+*.password
+password.txt
+pwfile.txt
+.env
+
+# Fichiers de users spécifiques à une mission (souvent sensibles/NDA)
+users*.txt
+!users.example.txt
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
