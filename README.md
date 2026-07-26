@@ -1,5 +1,7 @@
 # sprayctl
 
+[![tests](https://github.com/ton-user/sprayctl/actions/workflows/tests.yml/badge.svg)](https://github.com/ton-user/sprayctl/actions/workflows/tests.yml)
+
 > ⚠️ **Usage strictement réservé aux tests d'intrusion autorisés par écrit.**
 > Utiliser cet outil contre un système sans autorisation explicite du
 > propriétaire est illégal dans la plupart des juridictions. Voir [LICENSE](LICENSE).

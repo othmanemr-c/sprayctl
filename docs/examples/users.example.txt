@@ -1,0 +1,7 @@
+# Format attendu par --users : un username par ligne
+# Les lignes commençant par # sont ignorées (commentaires)
+# Les doublons et lignes vides sont automatiquement nettoyés
+
+jdupont
+amartin
+svincent
